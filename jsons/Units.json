@@ -11,7 +11,7 @@
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
-    "promotions": ["Shock I"],
+        "promotions": ["Shock I"],
 		"attackSound": "metalhit"
 	},
 ]
