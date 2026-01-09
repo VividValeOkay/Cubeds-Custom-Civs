@@ -1,0 +1,11 @@
+[
+	{
+		"name": "Bliss Plantation",
+		"uniqueTo": "Eden's Gate",
+		"turnsToBuild": 6,
+		"gold": 1,
+		"techRequired": "Calendar",
+		"uniques": ["[+1 Faith] <after discovering [Fertilizer]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "P"
+	},
+]
