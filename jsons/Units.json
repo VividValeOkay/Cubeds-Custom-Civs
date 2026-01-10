@@ -27,4 +27,19 @@
 		"obsoleteTech": "Mobile Tactics",
 		"attackSound": "shot"
 	},
+	{
+		"name": "Linked Swordsman",
+		"unitType": "Sword",
+		"replaces": "Swordsman",
+		"uniqueTo": "Robloxia",
+		"movement": 2,
+		"strength": 14,
+		"cost": 58,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
 ]
