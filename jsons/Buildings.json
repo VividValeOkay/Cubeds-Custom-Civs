@@ -18,4 +18,14 @@
 		"hurryCostModifier": 0,
 		"requiredTech": "Biology"
 	},
+	{
+		"name": "Westhelm Colosseum",
+		"replaces": "Colosseum",
+		"uniqueTo": "Westhelm",
+		"maintenance": 1,
+		"happiness": 3,
+		"hurryCostModifier": 25,
+		"requiredTech": "Construction",
+		"uniques": ["[-20]% unhappiness from the number of cities"],
+	},
 ]
