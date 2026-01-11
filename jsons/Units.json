@@ -20,7 +20,7 @@
 		"replaces": "Infantry",
 		"uniqueTo": "Eden's Gate",
 		"movement": 2,
-		"strength": 72,
+		"strength": 73,
 		"cost": 375,
 		"requiredTech": "Plastics",
 		"upgradesTo": "Mechanized Infantry",
@@ -43,17 +43,19 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Firework Crossbowman", // may be changed
-		"unitType": "Archery",
-		"replaces": "Crossbowman",
+		"name": "Westhelm Legion",
+		"unitType": "Sword",
+		"replaces": "Swordsman",
 		"uniqueTo": "Westhelm",
 		"movement": 2,
-		"strength": 13,
-		"rangedStrength": 18,
-		"cost": 120,
-		"requiredTech": "Machinery",
-		"upgradesTo": "Gatling Gun",
-		"obsoleteTech": "Industrialization",
-		"attackSound": "shot"
+		"strength": 16,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"uniques": ["Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
 	},
 ]
