@@ -86,7 +86,7 @@
 
 	"declaringWar": "You may have stronger weapons and armor, but we have numbers!", // Need better dialogue later
 	"attacked": "You may have stronger weapons and armor, but we have numbers!",
-	"defeated": "Glory to Westhelm...",
+	"defeated": "Now that all is said and done, the halls and courts that once held many now lay empty, drowning in a solemn silence of loss.",
     "denounced": "I will make sure everyone knows how corrupt you are!",
 	"introduction": "Glory to Westhelm!",
 
@@ -100,6 +100,6 @@
 	"uniqueName": "Glory to Westhelm",
     "uniques": ["[+25]% Production when constructing [Military] units [in all cities] <when at war>"],
 	"cities": ["Westhelm Citadel","Westhelm Colosseum","The Underhelm","The French Kiss","The Aqueduct","Pendaris","New Westhelm","North Westhelm","Westhelm Village",
-		       "Schpoodria","South Westhelm"],
+		       "Schpoodria","South Westhelm","Westhelm Town","Westhelmpolis"],
 },
 ]
