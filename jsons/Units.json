@@ -42,4 +42,18 @@
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Firework Crossbowman", // may be changed
+		"unitType": "Archery",
+		"replaces": "Crossbowman",
+		"uniqueTo": "Westhelm",
+		"movement": 2,
+		"strength": 13,
+		"rangedStrength": 18,
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"attackSound": "shot"
+	},
 ]
