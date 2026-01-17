@@ -58,4 +58,20 @@
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Lirepacci",
+		"unitType": "Sword",
+		"replaces": "Swordsman",
+		"uniqueTo": "Imperius",
+		"movement": 2,
+		"strength": 16,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"uniques": ["[+35]% XP gained from combat"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
 ]
