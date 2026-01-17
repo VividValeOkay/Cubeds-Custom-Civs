@@ -28,4 +28,16 @@
 		"requiredTech": "Construction",
 		"uniques": ["[-20]% unhappiness from the number of cities"],
 	},
+	{
+		"name": "Philharmonic Orchestra",
+		"replaces": "Amphitheater",
+		"uniqueTo": "Imperius",
+		"culture": 3,
+		"specialistSlots": {"Artist": 1},
+		"requiredBuilding": "Monument",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[-20]% Unhappiness from [Population] [in this city]","Destroyed when the city is captured"],
+		"requiredTech": "Drama and Poetry"
+	},
 ]
