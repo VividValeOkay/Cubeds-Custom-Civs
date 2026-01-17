@@ -104,4 +104,29 @@
 		       "Schpoodria","South Westhelm","Westhelm Town","Westhelmpolis"],
     "spyNames": ["Acyrillic","DieselDevil05","THE DRIFTER 823","foxarific","T3kn0","triforce_power","Vadayn","TheLordAndSavior"]
 },
+{
+	"name": "Imperius",
+	"leaderName": "Dopilus",
+    "preferredVictoryType": "Domination",
+	"personality": "Dopilus",
+	"favoredReligion": "Christianity",
+
+	"declaringWar": "You're pathetic. Prepare for war!",
+	"attacked": "You're pathetic. We must prepare our defense...",
+	"defeated": "You have destroyed us!",
+    "denounced": "How pathetic...",
+	"introduction": "Welcome to Imperius. We stand at awe of you mighty tribe!",
+
+    "neutralHello": "Hello.",
+    "hateHello": "What?",
+
+    "tradeRequest": "Lets trade!",
+
+    "outerColor": [0, 0, 255],
+    "innerColor": [255, 255, 255],
+	"uniqueName": "Organization",
+    "uniques": ["Starts with [Pottery]"],
+	"cities": ["Calores","Monute","Pirosum","Malusica","Doremo","Nucapite","Romares","Iplomus","Tecalus","Moresum","Picanuro",
+		       "Doluste"],
+},
 ]
