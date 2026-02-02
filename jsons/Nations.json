@@ -129,4 +129,28 @@
 	"cities": ["Calores","Monute","Pirosum","Malusica","Doremo","Nucapite","Romares","Iplomus","Tecalus","Moresum","Picanuro",
 		       "Doluste"],
 },
+{
+	"name": "Hoppers",
+	"leaderName": "Djomo Djapeke",
+    "preferredVictoryType": "Domination",
+	"personality": "Djomo Djapeke",
+
+	"declaringWar": "You're pathetic. Prepare for war!",
+	"attacked": "You're pathetic. We must prepare our defense...",
+	"defeated": "I hate to flee my own kingdom..! We'll meet again.",
+    "denounced": "Hey! Hands off!",
+	"introduction": "Hello! I am Djomo Djapeke and I welcome you to the Djata kingdom!",
+
+    "neutralHello": "Hop hop!",
+    "hateHello": "Hey! Hands off!",
+
+    "tradeRequest": "Shh! Keep this between us...",
+
+    "outerColor": [255, 255, 255],
+    "innerColor": [161, 161, 161],
+	"uniqueName": "Sapient Rabbits",
+    "uniques": ["Starts with [Pottery]"],
+	"cities": ["Joemy","Jaepeke","Djety Jomy","Jopa","Japeke","Djaemy","Djema","Joemeke","Djato Djoteke","Djety Jeteke","Jopeke Jata","
+	           "Japo Jota","Djaemy","Joeteke","Jato Djemo"],
+},
 ]
