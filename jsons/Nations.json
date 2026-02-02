@@ -135,8 +135,8 @@
     "preferredVictoryType": "Domination",
 	"personality": "Djomo Djapeke",
 
-	"declaringWar": "You're pathetic. Prepare for war!",
-	"attacked": "You're pathetic. We must prepare our defense...",
+	"declaringWar": "We're anticipating the next move...",
+	"attacked": "We're anticipating the next move...",
 	"defeated": "I hate to flee my own kingdom..! We'll meet again.",
     "denounced": "Hey! Hands off!",
 	"introduction": "Hello! I am Djomo Djapeke and I welcome you to the Djata kingdom!",
@@ -151,6 +151,6 @@
 	"uniqueName": "Sapient Rabbits",
     "uniques": ["Starts with [Pottery]"],
 	"cities": ["Joemy","Jaepeke","Djety Jomy","Jopa","Japeke","Djaemy","Djema","Joemeke","Djato Djoteke","Djety Jeteke","Jopeke Jata","
-	           "Japo Jota","Djaemy","Joeteke","Jato Djemo"],
+	           "Japo Jota","Joeteke","Jato Djemo"],
 },
 ]
