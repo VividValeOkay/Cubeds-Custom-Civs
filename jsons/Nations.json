@@ -149,7 +149,7 @@
     "outerColor": [255, 255, 255],
     "innerColor": [161, 161, 161],
 	"uniqueName": "Sapient Rabbits",
-    "uniques": ["Starts with [Pottery]"],
+    "uniques": ["[+1] Movement <for [All] units>","[+15]% growth [in all cities]"],
 	"cities": ["Joemy","Jaepeke","Djety Jomy","Jopa","Japeke","Djaemy","Djema","Joemeke","Djato Djoteke","Djety Jeteke","Jopeke Jata",
 	           "Japo Jota","Joeteke","Jato Djemo"],
 },
