@@ -152,5 +152,6 @@
     "uniques": ["[+1] Movement <for [All] units>","[+15]% growth [in all cities]"],
 	"cities": ["Joemy","Jaepeke","Djety Jomy","Jopa","Japeke","Djaemy","Djema","Joemeke","Djato Djoteke","Djety Jeteke","Jopeke Jata",
 	           "Japo Jota","Joeteke","Jato Djemo"],
+"spyNames": ["Jopa","Japeke","Djato Djoteke","Djomo Djapeke","Japo Jota","Djety Jomy"]
 },
 ]
