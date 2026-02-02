@@ -1,0 +1,6 @@
+[
+	{
+		"name": "Stagger", // only for Limbus Company units and subsequent upgrades
+		"uniques": ["[+25]% Strength <vs [Wounded] units>"]
+	}
+]
