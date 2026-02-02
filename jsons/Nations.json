@@ -154,4 +154,29 @@
 	           "Japo Jota","Joeteke","Jato Djemo"],
 "spyNames": ["Jopa","Japeke","Djato Djoteke","Djomo Djapeke","Japo Jota","Djety Jomy"]
 },
+{
+	"name": "Limbus Company",
+	"leaderName": "Vergilius",
+    "preferredVictoryType": "Domination",
+	"personality": "Vergilius",
+
+	"declaringWar": "Alright, everyone off.",
+	"attacked": "Alright, everyone off.",
+	"defeated": "*sigh* ...I'll have some words for my sinners after this...",
+    "denounced": "...I'm sick of this.",
+	"introduction": "Greetings, You may call me, Vergilius.",
+
+    "neutralHello": "Greetings...",
+    "hateHello": "...",
+
+    "tradeRequest": "What's with the long face? See something you don't like? Hm...",
+
+    "outerColor": [176, 28, 55],
+    "innerColor": [255, 239, 35],
+	"uniqueName": "Face the Sin, Save the E.G.O",
+    "uniques": ["[Military] units gain the [Stagger] promotion",""Borrows" city names from other civilizations in the game"],
+	"cities": ["Limbus Company HQ"],
+"spyNames": ["Yi Sang","Faust","Don Quixote","Ryōshū","Meursault","Hong Lu","Heathcliff","Ishmael","Rodion","Dante","Sinclair",
+             "Outis","Gregor"]
+},
 ]
