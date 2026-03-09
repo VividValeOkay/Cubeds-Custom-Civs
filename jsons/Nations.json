@@ -185,9 +185,9 @@
     "preferredVictoryType": "Domination",
 	"personality": "Takkar",
 
-	"declaringWar": "Land of Oros not big enough for two of us.",
+	"declaringWar": "Valley of Oros not big enough for two of us.",
 	"attacked": "Takkar defend Wenja from attack.",
-	"defeated": "Wenja are dead, Land of Oros lost.",
+	"defeated": "Wenja are dead, Valley of Oros lost.",
     "denounced": "Wenja will remember words...",
 	"introduction": "Hello. I am Takkar of Wenja.",
 
@@ -198,9 +198,9 @@
 
     "outerColor": [255, 255, 255],
     "innerColor": [161, 161, 161],
-	"uniqueName": "Land of Oros",
+	"uniqueName": "Valley of Oros",
     "uniques": [""],
 	"cities": ["Wenja"],
-"spyNames": ["Spy name","Bob"]
+"spyNames": ["Sayla","Tensay","Karoosh","Urki"]
 },
 ]
